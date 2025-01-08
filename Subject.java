@@ -1,3 +1,15 @@
+/**
+ * Name class: Student
+ * Date: 08 January 2025
+ * Author: Chin hongnyheng
+ * Collarborators: Try Khemchhun
+ * Modified: 08 January 2025
+ * Description: A class that testing the Subject class
+ * Functions:
+ * - getName(): String
+ * Variables:
+ * - name: String
+ */
 public class Subject {
     private String name;
 
