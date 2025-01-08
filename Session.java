@@ -1,14 +1,15 @@
 /**
  * Name class: Session
  * Date: 08 January 2025
- * Author: Chin hongnyheng
- * Collarborators: Try Khemchhun
+ * Author: Try khemchhun
+ * Collarborators: Chin hongnyheng
  * Modified: 08 January 2025
  * Description: A class that testing the Subject class
  * Functions:
- * - getName(): String
+ * - setDuration(int, int): void
  * Variables:
- * - name: String
+ * -= startTime: int
+ * -= endTime: int
  */
 public class Session {
     private int startTime;
